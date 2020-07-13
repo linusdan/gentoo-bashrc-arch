@@ -8,7 +8,7 @@
  $ cd ~/Downloads
  
 # Download the package
- $ wget -c https://github.com/linusdan/gentoo-bashrc-arch/raw/master/snapshot/gentoo-bashrc.tar.gz
+ $ wget -c https://github.com/linusdan/gentoo-bashrc-arch/raw/primary/snapshot/gentoo-bashrc.tar.gz
 
 # Check MD5SUM of file:
  $ md5sum gentoo-bashrc.tar.gz
@@ -31,4 +31,4 @@
  ```
 
 View MD5SUM:
-* [**MD5SUM**](https://raw.githubusercontent.com/linusdan/gentoo-bashrc-arch/master/snapshot/MD5SUMS)
+* [**MD5SUM**](https://raw.githubusercontent.com/linusdan/gentoo-bashrc-arch/primary/snapshot/MD5SUMS)
